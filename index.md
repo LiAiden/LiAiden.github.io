@@ -22,9 +22,31 @@
 * 电子邮件：736193167@qq.com
 ## 个人技能
 1. 熟练使用Excel、word进行数据整理和paper撰写
-2. 
+2. 使用stata进行数据处理、网络爬虫、文本分析等
+3. 利用Photo shop美化制作用户及产品界面
+4. 熟练掌握Gephi，并对社会复杂网络进行可视化分析
+5. 通过计量学软件SPSS构建数学模型并进行回归分析
+6. 利用Markdown设计轻量级HTML
 ![自拍](https://github.com/LiAiden/picture/blob/master/UNADJUSTEDNONRAW_thumb_668.jpg)
+## 个人经历
 
+### 校园荣誉
+
+* 国家奖学金
+* 河南省优秀毕业生
+* 校三好学生、模范干部
+
+### 社会实践
+
+* 新乡市环宇有限责任公司，参与调研，深入工厂并发表新闻稿一篇
+* 深圳市龙岗区比亚迪厂区工作一个月，北京优你双语辅导班任授课老师一个月
+* 平顶山市大河职业培训学校工作一年，期间主要负责人员培训及办公室管理
+* Stata-club俱乐部工作2个月，深入学习并参与爬虫项目若干
+* 河北省三下乡项目《大数据视角下消费者偏好研究》
+
+## 个人愿景
+
+希望，有一份不沉闷的工作，在不是很老的年纪，遇见一个不难看的人，谈一场不慌不忙的恋爱，有一个不吵不闹的婚礼，生一个不要太可爱的宝宝，平平安安，度过我不算糟糕的一生
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
