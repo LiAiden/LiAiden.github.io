@@ -1,7 +1,7 @@
 # 欢迎来到李正旸的个人主页
 ---
 You can use the [editor on GitHub](https://github.com/LiAiden/LiAiden.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+![自拍](https://github.com/LiAiden/picture/blob/master/UNADJUSTEDNONRAW_thumb_668.jpg)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
