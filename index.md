@@ -1,6 +1,29 @@
 # 欢迎来到李正旸的个人主页
 ---
-You can use the [editor on GitHub](https://github.com/LiAiden/LiAiden.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 菜单
+[toc]
+## 前言
+==突发奇想、心血来潮==看到[stata-club](https://stata-club.github.io/)制作的很精美，而且不用花钱，那我为什么不能自己建立一个呢？于是，我学习了初步涉猎了以下内容：
+* Markdown的基本语法
+* Typora操作
+* Latex数学公式基本语法（论文中的公式实在是太难调整了）
+* Github pages官方教学
+* Github Desktop(也下载了git,就是不会用）
+人总是向前看的，点滴累积方成大海，今后每天尝试学一点新知识，让僵化的大脑活跃起来！
+## 个人基本信息
+* 姓名：李正旸
+* 性别：男
+* 学历：研究生在读一年级
+* 专业：技术经济及管理
+* 院校：河北地质大学
+* 政治面貌：中共党员
+* 所在城市：河北石家庄
+* 移动电话：17303757733
+* 电子邮件：736193167@qq.com
+## 个人技能
+1. 熟练使用Excel、word进行数据整理和paper撰写
+2. 
+![自拍](https://github.com/LiAiden/picture/blob/master/UNADJUSTEDNONRAW_thumb_668.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
