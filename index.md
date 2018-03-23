@@ -58,11 +58,3 @@
 ## 个人愿景
 
 希望，有一份不沉闷的工作，在不是很老的年纪，遇见一个不难看的人，谈一场不慌不忙的恋爱，有一个不吵不闹的婚礼，生一个不要太可爱的宝宝，平平安安，度过我不算糟糕的一生
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiAiden/LiAiden.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
