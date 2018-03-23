@@ -1,7 +1,7 @@
 # 欢迎来到李正旸的个人主页
 ---
 ## 菜单
-[toc]
+[个人主页](https://github.com/LiAiden/LiAiden.github.io/blob/master/李正旸的个人主页.html)
 ## 前言
 ==突发奇想、心血来潮==看到[stata-club](https://stata-club.github.io/)制作的很精美，而且不用花钱，那我为什么不能自己建立一个呢？于是，我学习了初步涉猎了以下内容：
 * Markdown的基本语法
