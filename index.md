@@ -1,6 +1,6 @@
 # 欢迎来到李正旸的个人主页
 ---
-测试一个链接：[百度](www.baidu.com)
+测试一个链接：[百度](https://www.baidu.com/)
 
 You can use the [editor on GitHub](https://github.com/LiAiden/LiAiden.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
